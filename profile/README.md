@@ -1,13 +1,6 @@
 # 👋 Chào mừng bạn đến với BK-Corp!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=BK-Corp&subtitle=Innovating%20Software%20Solutions&fontSize=50&animation=fadeIn" alt="BK-Corp Banner" />
-</p>
-
-## 🚀 Về chúng tôi
-Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các sản phẩm phần mềm chất lượng cao, các giải pháp số hóa doanh nghiệp, hệ thống trợ lý ảo thông minh và các dịch vụ gia công phần mềm chuyên nghiệp.
-
----
+BK-Corp là một tổ chức phần mềm chuyên nghiệp phát triển các giải pháp Core Framework, sản phẩm AI, và gia công hệ thống phần mềm quy mô lớn cho đối tác khối công và doanh nghiệp.
 
 ### 📁 Cây thư mục dự án tương tác (Interactive Project Tree)
 
@@ -15,35 +8,24 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   <summary>📁 <b>Core Frameworks</b></summary>
   <div style="padding-left: 20px;">
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-fe-">Core Frontend (core-fe-*)</a></b> (12 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-fe-">Core Frontend (core-fe-*)</a></b> (4 repos)</summary>
   <ul>
     <li><a href="https://github.com/BK-Corp/0-core-fe-dasypeltis">🔗 0-core-fe-dasypeltis</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-boidae">🔗 core-fe-boidae</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-boidae_backup">🔗 core-fe-boidae_backup</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-cobra">🔗 core-fe-cobra</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-coreframework.admin.vuefe">🔗 core-fe-coreframework.admin.vuefe</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-jararacussu">🔗 core-fe-jararacussu</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-mamushi">🔗 core-fe-mamushi</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-najanaja">🔗 core-fe-najanaja</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-nerodia">🔗 core-fe-nerodia</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-viper">🔗 core-fe-viper</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-vue-language-frontend">🔗 core-fe-vue-language-frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-vue.adminfe">🔗 core-fe-vue.adminfe</a></li>
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-be-">Core Backend (core-be-*)</a></b> (45 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-be-">Core Backend (core-be-*)</a></b> (43 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/0-core-be-anaconda">🔗 0-core-be-anaconda</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-atractaspididae">🔗 0-core-be-atractaspididae</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-atractaspidinae">🔗 0-core-be-atractaspidinae</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-boa">🔗 0-core-be-boa</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-boiga">🔗 0-core-be-boiga</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-boomslang">🔗 0-core-be-boomslang</a></li>
-    <li><a href="https://github.com/BK-Corp/0-core-be-bushmasters">🔗 0-core-be-bushmasters</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-calendar-service">🔗 0-core-be-calendar-service</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-copperhead">🔗 0-core-be-copperhead</a></li>
-    <li><a href="https://github.com/BK-Corp/0-core-be-core-services">🔗 0-core-be-core-services</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-cottonmouth">🔗 0-core-be-cottonmouth</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-cyclocorinae">🔗 0-core-be-cyclocorinae</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-elapidae">🔗 0-core-be-elapidae</a></li>
@@ -55,8 +37,9 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/0-core-be-lachesis">🔗 0-core-be-lachesis</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-lamprophiidae">🔗 0-core-be-lamprophiidae</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-micrelapiinae">🔗 0-core-be-micrelapiinae</a></li>
+    <li><a href="https://github.com/BK-Corp/0-core-be-mvc-bushmasters">🔗 0-core-be-mvc-bushmasters</a></li>
+    <li><a href="https://github.com/BK-Corp/0-core-be-mvc-viper">🔗 0-core-be-mvc-viper</a></li>
     <li><a href="https://github.com/BK-Corp/0-core-be-rinkhals">🔗 0-core-be-rinkhals</a></li>
-    <li><a href="https://github.com/BK-Corp/0-core-be-titanoboa">🔗 0-core-be-titanoboa</a></li>
     <li><a href="https://github.com/BK-Corp/core-be-02.api-gateway-api-gateway">🔗 core-be-02.api-gateway-api-gateway</a></li>
     <li><a href="https://github.com/BK-Corp/core-be-02.api-gateway-api-gateway-fe">🔗 core-be-02.api-gateway-api-gateway-fe</a></li>
     <li><a href="https://github.com/BK-Corp/core-be-02.api-gateway-bkcorp.apitesting.repo">🔗 core-be-02.api-gateway-bkcorp.apitesting.repo</a></li>
@@ -82,22 +65,15 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-mobile-">Core Mobile (core-mobile-*)</a></b> (72 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-mobile-">Core Mobile (core-mobile-*)</a></b> (78 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-api_packages">🔗 core-mobile-0.core-api_packages</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-certificates">🔗 core-mobile-0.core-certificates</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-core_module">🔗 core-mobile-0.core-core_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-lgsp-totp">🔗 core-mobile-0.core-lgsp-totp</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-mobile-style-guide">🔗 core-mobile-0.core-mobile-style-guide</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-native_package_template">🔗 core-mobile-0.core-native_package_template</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-serp_debug_overlay">🔗 core-mobile-0.core-serp_debug_overlay</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-serp_font_awesome">🔗 core-mobile-0.core-serp_font_awesome</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-serp_http_service">🔗 core-mobile-0.core-serp_http_service</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-serp_service_utils">🔗 core-mobile-0.core-serp_service_utils</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-template-app">🔗 core-mobile-0.core-template-app</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-ui_packages">🔗 core-mobile-0.core-ui_packages</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-5.miniapp-tuyen-quang-id">🔗 core-mobile-5.miniapp-tuyen-quang-id</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-api_packages">🔗 core-mobile-api_packages</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-certificates">🔗 core-mobile-certificates</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-core_module">🔗 core-mobile-core_module</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-game-2048-module">🔗 core-mobile-game-2048-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-lgsp-totp">🔗 core-mobile-lgsp-totp</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-mobile-style-guide">🔗 core-mobile-mobile-style-guide</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-module-administrative_module">🔗 core-mobile-module-administrative_module</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-module-advance-payment">🔗 core-mobile-module-advance-payment</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-module-chatbot_module">🔗 core-mobile-module-chatbot_module</a></li>
@@ -121,6 +97,9 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/core-mobile-module-traffic_module">🔗 core-mobile-module-traffic_module</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-module-work-report">🔗 core-mobile-module-work-report</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-module-yolo-module">🔗 core-mobile-module-yolo-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-native_package_template">🔗 core-mobile-native_package_template</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-nong-nghiep-lang-son">🔗 core-mobile-nong-nghiep-lang-son</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-ocop-ls">🔗 core-mobile-ocop-ls</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-project-beka-app">🔗 core-mobile-project-beka-app</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-project-beka-app-v2">🔗 core-mobile-project-beka-app-v2</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-project-beka-lan">🔗 core-mobile-project-beka-lan</a></li>
@@ -156,6 +135,16 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/core-mobile-reactnative-asset_inventory">🔗 core-mobile-reactnative-asset_inventory</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-reactnative-core-react-native">🔗 core-mobile-reactnative-core-react-native</a></li>
     <li><a href="https://github.com/BK-Corp/core-mobile-reactnative-s_ui_lib">🔗 core-mobile-reactnative-s_ui_lib</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-serp_debug_overlay">🔗 core-mobile-serp_debug_overlay</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-serp_font_awesome">🔗 core-mobile-serp_font_awesome</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-serp_http_service">🔗 core-mobile-serp_http_service</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-serp_service_utils">🔗 core-mobile-serp_service_utils</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-smart-ticket">🔗 core-mobile-smart-ticket</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-template-app">🔗 core-mobile-template-app</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-trace-module">🔗 core-mobile-trace-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-txng-app-doanh-nghiep">🔗 core-mobile-txng-app-doanh-nghiep</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-txng-app-nguoi-dan">🔗 core-mobile-txng-app-nguoi-dan</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-ui_packages">🔗 core-mobile-ui_packages</a></li>
   </ul>
 </details>
   </div>
@@ -224,13 +213,14 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=prod-">Sản phẩm khác (prod-*)</a></b> (5 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=prod-">Sản phẩm khác (prod-*)</a></b> (6 repos)</summary>
   <ul>
     <li><a href="https://github.com/BK-Corp/prod-beka-agent-beka-agent-core">🔗 prod-beka-agent-beka-agent-core</a></li>
     <li><a href="https://github.com/BK-Corp/prod-beka-agent-beka-tunnel">🔗 prod-beka-agent-beka-tunnel</a></li>
     <li><a href="https://github.com/BK-Corp/prod-beka-extension-beka-flutter-pack">🔗 prod-beka-extension-beka-flutter-pack</a></li>
     <li><a href="https://github.com/BK-Corp/prod-beka-file-beka-filebrowser">🔗 prod-beka-file-beka-filebrowser</a></li>
     <li><a href="https://github.com/BK-Corp/prod-beka-file-beka-nextcloud">🔗 prod-beka-file-beka-nextcloud</a></li>
+    <li><a href="https://github.com/BK-Corp/prod-website-corporate">🔗 prod-website-corporate</a></li>
   </ul>
 </details>
   </div>
@@ -240,8 +230,9 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   <summary>📁 <b>Outsource Projects (Gia công phần mềm)</b></summary>
   <div style="padding-left: 20px;">
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-vsp-">Khách hàng: Vishipel (out-vsp-*)</a></b> (15 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-vsp-">Khách hàng: Vishipel (out-vsp-*)</a></b> (16 repos)</summary>
   <ul>
+    <li><a href="https://github.com/BK-Corp/out-vsp-bigdata-poc">🔗 out-vsp-bigdata-poc</a></li>
     <li><a href="https://github.com/BK-Corp/out-vsp-da-diem-vishipel.dadiem.customer">🔗 out-vsp-da-diem-vishipel.dadiem.customer</a></li>
     <li><a href="https://github.com/BK-Corp/out-vsp-vishipel-asset-management">🔗 out-vsp-vishipel-asset-management</a></li>
     <li><a href="https://github.com/BK-Corp/out-vsp-vishipel-billing-dvvt">🔗 out-vsp-vishipel-billing-dvvt</a></li>
@@ -267,12 +258,20 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-gov-">Khách hàng: Chính phủ & Tỉnh thành (out-gov-*)</a></b> (12 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-gov-">Khách hàng: Chính phủ & Tỉnh thành (out-gov-*)</a></b> (20 repos)</summary>
   <ul>
     <li><a href="https://github.com/BK-Corp/out-gov-bk-backan.csdlgdnn.reporting">🔗 out-gov-bk-backan.csdlgdnn.reporting</a></li>
     <li><a href="https://github.com/BK-Corp/out-gov-bk-backan.csdlkhcn.management">🔗 out-gov-bk-backan.csdlkhcn.management</a></li>
     <li><a href="https://github.com/BK-Corp/out-gov-bk-file-node-extend">🔗 out-gov-bk-file-node-extend</a></li>
     <li><a href="https://github.com/BK-Corp/out-gov-bk-lgsp-2024">🔗 out-gov-bk-lgsp-2024</a></li>
+    <li><a href="https://github.com/BK-Corp/out-gov-ddqg-agentapi">🔗 out-gov-ddqg-agentapi</a></li>
+    <li><a href="https://github.com/BK-Corp/out-gov-ddqg-api">🔗 out-gov-ddqg-api</a></li>
+    <li><a href="https://github.com/BK-Corp/out-gov-ddqg-api-gateway">🔗 out-gov-ddqg-api-gateway</a></li>
+    <li><a href="https://github.com/BK-Corp/out-gov-ddqg-api-gateway-admin">🔗 out-gov-ddqg-api-gateway-admin</a></li>
+    <li><a href="https://github.com/BK-Corp/out-gov-ddqg-api-gateway-fe">🔗 out-gov-ddqg-api-gateway-fe</a></li>
+    <li><a href="https://github.com/BK-Corp/out-gov-ddqg-api-gateway-infra">🔗 out-gov-ddqg-api-gateway-infra</a></li>
+    <li><a href="https://github.com/BK-Corp/out-gov-ddqg-identity-be">🔗 out-gov-ddqg-identity-be</a></li>
+    <li><a href="https://github.com/BK-Corp/out-gov-ddqg-identity-fe">🔗 out-gov-ddqg-identity-fe</a></li>
     <li><a href="https://github.com/BK-Corp/out-gov-ls-ekyc-2024">🔗 out-gov-ls-ekyc-2024</a></li>
     <li><a href="https://github.com/BK-Corp/out-gov-ls-langson-sohoa-2023">🔗 out-gov-ls-langson-sohoa-2023</a></li>
     <li><a href="https://github.com/BK-Corp/out-gov-ls-ls-csdltgtn-2024">🔗 out-gov-ls-ls-csdltgtn-2024</a></li>
@@ -284,30 +283,8 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (63 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (42 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/08.eticket-tms-beta-tms">🔗 08.eticket-tms-beta-tms</a></li>
-    <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-agentapi">🔗 7a-csdl-datdai-quocgia-agentapi</a></li>
-    <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-api-gateway">🔗 7a-csdl-datdai-quocgia-api-gateway</a></li>
-    <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-api-gateway-admin">🔗 7a-csdl-datdai-quocgia-api-gateway-admin</a></li>
-    <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-api-gateway-fe">🔗 7a-csdl-datdai-quocgia-api-gateway-fe</a></li>
-    <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-api-gateway-infrastructure">🔗 7a-csdl-datdai-quocgia-api-gateway-infrastructure</a></li>
-    <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-ddqgapi">🔗 7a-csdl-datdai-quocgia-ddqgapi</a></li>
-    <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-identity_backend">🔗 7a-csdl-datdai-quocgia-identity_backend</a></li>
-    <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-identity_frontend">🔗 7a-csdl-datdai-quocgia-identity_frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-beka-image">🔗 8-3d-chatbot-ai-beka-image</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-beka-reader">🔗 8-3d-chatbot-ai-beka-reader</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-beka-vision">🔗 8-3d-chatbot-ai-beka-vision</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-chatbot-ai-botpress">🔗 8-3d-chatbot-ai-chatbot-ai-botpress</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-chatbot-ai-deployment">🔗 8-3d-chatbot-ai-chatbot-ai-deployment</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-chatbot-ai-landing-page">🔗 8-3d-chatbot-ai-chatbot-ai-landing-page</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-chatbot-ai-messaging">🔗 8-3d-chatbot-ai-chatbot-ai-messaging</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-chatbot-ai-nlu">🔗 8-3d-chatbot-ai-chatbot-ai-nlu</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-chatbot-ai-studio">🔗 8-3d-chatbot-ai-chatbot-ai-studio</a></li>
-    <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-maps-platform">🔗 8-3d-chatbot-ai-maps-platform</a></li>
-    <li><a href="https://github.com/BK-Corp/99.s-erp-website-wp-site">🔗 99.s-erp-website-wp-site</a></li>
-    <li><a href="https://github.com/BK-Corp/bigdata-vishipel-poc">🔗 bigdata-vishipel-poc</a></li>
-    <li><a href="https://github.com/BK-Corp/mobile-app-smart.ticket.app">🔗 mobile-app-smart.ticket.app</a></li>
     <li><a href="https://github.com/BK-Corp/out-brgretail.inventory">🔗 out-brgretail.inventory</a></li>
     <li><a href="https://github.com/BK-Corp/out-digitaltransformation-s-digital-transformation-be">🔗 out-digitaltransformation-s-digital-transformation-be</a></li>
     <li><a href="https://github.com/BK-Corp/out-ecotek-masterapp-be">🔗 out-ecotek-masterapp-be</a></li>
@@ -348,26 +325,29 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/out-tnmt-csdl-tnmt-th-api">🔗 out-tnmt-csdl-tnmt-th-api</a></li>
     <li><a href="https://github.com/BK-Corp/out-tnmt-csdl-tnmt-th-fe">🔗 out-tnmt-csdl-tnmt-th-fe</a></li>
     <li><a href="https://github.com/BK-Corp/out-trees-management-service">🔗 out-trees-management-service</a></li>
-    <li><a href="https://github.com/BK-Corp/training-course-git-dev">🔗 training-course-git-dev</a></li>
+    <li><a href="https://github.com/BK-Corp/s-erp-00.coreframeworkfe-mobile-flutter-core-lgsp-totp">🔗 s-erp-00.coreframeworkfe-mobile-flutter-core-lgsp-totp</a></li>
+    <li><a href="https://github.com/BK-Corp/s-erp-2023-bigdata-vishipel-poc">🔗 s-erp-2023-bigdata-vishipel-poc</a></li>
   </ul>
 </details>
   </div>
 </details>
 
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=rnd-">Nghiên cứu & Thử nghiệm (rnd-*)</a></b> (11 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=rnd-">Nghiên cứu & Thử nghiệm (rnd-*)</a></b> (13 repos)</summary>
   <ul>
+    <li><a href="https://github.com/BK-Corp/rnd-demo">🔗 rnd-demo</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-elasticindexingandquery">🔗 rnd-elasticindexingandquery</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-filenet.108migration">🔗 rnd-filenet.108migration</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-filenet.108search">🔗 rnd-filenet.108search</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-git-training">🔗 rnd-git-training</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-monitorning-system">🔗 rnd-monitorning-system</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-netmicroservicearchitecture">🔗 rnd-netmicroservicearchitecture</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-poc-db-encryption">🔗 rnd-poc-db-encryption</a></li>
-    <li><a href="https://github.com/BK-Corp/rnd-sample-app-flutter">🔗 rnd-sample-app-flutter</a></li>
-    <li><a href="https://github.com/BK-Corp/rnd-serp.samplecode.backend">🔗 rnd-serp.samplecode.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/rnd-serp.samplecode.flutterapp">🔗 rnd-serp.samplecode.flutterapp</a></li>
-    <li><a href="https://github.com/BK-Corp/rnd-serp.samplecode.frontend">🔗 rnd-serp.samplecode.frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/rnd-serp.samplecode.frontend.v11">🔗 rnd-serp.samplecode.frontend.v11</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-sample-be">🔗 rnd-sample-be</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-sample-fe">🔗 rnd-sample-fe</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-sample-fe-v11">🔗 rnd-sample-fe-v11</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-sample-flutter">🔗 rnd-sample-flutter</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-sample-flutterapp">🔗 rnd-sample-flutterapp</a></li>
   </ul>
 </details>
 <details>
@@ -380,34 +360,43 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (59 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (67 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/99-project-accounting-accounting-gw">🔗 99-project-accounting-accounting-gw</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-bi-serp.bi.fe">🔗 99-project-bi-serp.bi.fe</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-bi-serp.bi.service">🔗 99-project-bi-serp.bi.service</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-108.khaibaoyte">🔗 99-project-cms-108.khaibaoyte</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-avicad-iav-nt">🔗 99-project-cms-avicad-iav-nt</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-bds-api">🔗 99-project-cms-bds-bds-api</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-bds-api-5.0">🔗 99-project-cms-bds-bds-api-5.0</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-bds-fe-8">🔗 99-project-cms-bds-bds-fe-8</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-bds-web">🔗 99-project-cms-bds-bds-web</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-cms.108">🔗 99-project-cms-cms.108</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-cms.v30">🔗 99-project-cms-cms.v30</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-accounting-gateway">🔗 99-project-accounting-gateway</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-bi-fe">🔗 99-project-bi-fe</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-bi-service">🔗 99-project-bi-service</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-chatbot-beka-image">🔗 99-project-chatbot-beka-image</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-chatbot-beka-reader">🔗 99-project-chatbot-beka-reader</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-chatbot-beka-vision">🔗 99-project-chatbot-beka-vision</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-chatbot-deployment">🔗 99-project-chatbot-deployment</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-chatbot-landing-page">🔗 99-project-chatbot-landing-page</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-chatbot-maps-platform">🔗 99-project-chatbot-maps-platform</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-chatbot-messaging">🔗 99-project-chatbot-messaging</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-chatbot-nlu">🔗 99-project-chatbot-nlu</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-108">🔗 99-project-cms-108</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-avicad">🔗 99-project-cms-avicad</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-api">🔗 99-project-cms-bds-api</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-api-v5">🔗 99-project-cms-bds-api-v5</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-fe-v8">🔗 99-project-cms-bds-fe-v8</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-web">🔗 99-project-cms-bds-web</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-cinema">🔗 99-project-cms-cinema</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-cinema-mobile">🔗 99-project-cms-cinema-mobile</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-cms-ecm-public">🔗 99-project-cms-ecm-public</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-s-cinema-cms-cinema">🔗 99-project-cms-s-cinema-cms-cinema</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-cms-s-cinema-mobile-cinema">🔗 99-project-cms-s-cinema-mobile-cinema</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-khaibaoyte">🔗 99-project-cms-khaibaoyte</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-v3">🔗 99-project-cms-v3</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-eoffice-ais-intranet">🔗 99-project-eoffice-ais-intranet</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-eoffice-e-office-wf">🔗 99-project-eoffice-e-office-wf</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-eoffice-s-edoc">🔗 99-project-eoffice-s-edoc</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-eoffice-edoc">🔗 99-project-eoffice-edoc</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-eoffice-vtv-task">🔗 99-project-eoffice-vtv-task</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-filenet-baseservice.frontend">🔗 99-project-filenet-baseservice.frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-filenet-customer.backend">🔗 99-project-filenet-customer.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-filenet-filenet.backend">🔗 99-project-filenet-filenet.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-filenet-filenet.frontend">🔗 99-project-filenet-filenet.frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-filenet-filenet.reader.backend">🔗 99-project-filenet-filenet.reader.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-filenet-opportunities.backend">🔗 99-project-filenet-opportunities.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-filenet-opportunities.frontend">🔗 99-project-filenet-opportunities.frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-filenet-s-erp.filetnet.searchservice.indexer">🔗 99-project-filenet-s-erp.filetnet.searchservice.indexer</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-eoffice-wf">🔗 99-project-eoffice-wf</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-eticket-tms">🔗 99-project-eticket-tms</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-base-fe">🔗 99-project-filenet-base-fe</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-be">🔗 99-project-filenet-be</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-customer-be">🔗 99-project-filenet-customer-be</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-fe">🔗 99-project-filenet-fe</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-indexer">🔗 99-project-filenet-indexer</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-opp-be">🔗 99-project-filenet-opp-be</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-opp-fe">🔗 99-project-filenet-opp-fe</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-reader-be">🔗 99-project-filenet-reader-be</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-api-standard">🔗 99-project-goinvoice-api-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-fe-standard">🔗 99-project-goinvoice-fe-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-portal-standard">🔗 99-project-goinvoice-portal-standard</a></li>
@@ -419,10 +408,9 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/99-project-hr-winform">🔗 99-project-hr-winform</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-ibpm.api">🔗 99-project-ibpm.api</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-ibpm.fe">🔗 99-project-ibpm.fe</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-iot-2023-bigdata-vishipel-poc">🔗 99-project-iot-2023-bigdata-vishipel-poc</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-iot-iot-backend">🔗 99-project-iot-iot-backend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-iot-iot-backendapis">🔗 99-project-iot-iot-backendapis</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-iot-iot-frontend">🔗 99-project-iot-iot-frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-iot-apis">🔗 99-project-iot-apis</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-iot-be">🔗 99-project-iot-be</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-iot-fe">🔗 99-project-iot-fe</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-misbi-backend">🔗 99-project-misbi-backend</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-misbi-frontend">🔗 99-project-misbi-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-backend-21">🔗 99-project-mrp-backend-21</a></li>
@@ -430,58 +418,20 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/99-project-mrp-frontend">🔗 99-project-mrp-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-frontend-admin">🔗 99-project-mrp-frontend-admin</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-report-ssrs">🔗 99-project-mrp-report-ssrs</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-be">🔗 99-project-shipping-be</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-catalog">🔗 99-project-shipping-catalog</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-catalog-fe">🔗 99-project-shipping-catalog-fe</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-shipping-checkin-app">🔗 99-project-shipping-checkin-app</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-shipping-checkin-app-ios-native">🔗 99-project-shipping-checkin-app-ios-native</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-shipping-checkin-app-vue">🔗 99-project-shipping-checkin-app-vue</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-shipping-s-catalog">🔗 99-project-shipping-s-catalog</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-shipping-s-catalog-frontend">🔗 99-project-shipping-s-catalog-frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-shipping-shipping-backendapi">🔗 99-project-shipping-shipping-backendapi</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-shipping-shipping-frontend">🔗 99-project-shipping-shipping-frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-signing-sign-server-aio">🔗 99-project-signing-sign-server-aio</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-signing-sign-service">🔗 99-project-signing-sign-service</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-signing-signing-server-core.backend">🔗 99-project-signing-signing-server-core.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-signing-signing-server-core.frontend">🔗 99-project-signing-signing-server-core.frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-checkin-ios">🔗 99-project-shipping-checkin-ios</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-checkin-vue">🔗 99-project-shipping-checkin-vue</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-fe">🔗 99-project-shipping-fe</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-signing-core-be">🔗 99-project-signing-core-be</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-signing-core-fe">🔗 99-project-signing-core-fe</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-signing-server-aio">🔗 99-project-signing-server-aio</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-signing-service">🔗 99-project-signing-service</a></li>
   </ul>
 </details>
 
----
-
-## 🛠️ Công nghệ cốt lõi (Tech Stack)
-
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  
-  <!-- Backend & Languages -->
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
-  
-  <!-- Database & DevOps -->
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-</p>
 
 ---
-
-## 📊 Hoạt động & Chỉ số Organization
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BK-Corp&show_icons=true&theme=radical&count_private=true" alt="BK-Corp GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BK-Corp&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Liên hệ & Hợp tác
-* 🌐 **Website:** [bk-corp.vn](https://bk-corp.vn)
-* 📧 **Email:** [contact@bk-corp.vn](mailto:contact@bk-corp.vn)
-* 🏢 **Văn phòng:** Hà Nội, Việt Nam
-
----
-<p align="center">
-  <i>Được cấu hình tự động bởi Antigravity AI 🚀</i>
-</p>
+*Trang chủ được cập nhật tự động đồng bộ theo thời gian thực từ GitHub API.*
