@@ -15,21 +15,22 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
 
 ```
 BK-Corp (Organization)
-├── ⚙️ core-*      (Mã nguồn khung Core Framework FE & BE)
-│   ├── core-fe-*  (Ví dụ: core-fe-mamushi, core-fe-marinechat)
-│   └── core-be-*  (Ví dụ: core-be-boomslang, core-be-hemachatus)
+├── ⚙️ core-*         (Mã nguồn khung Core Framework FE, BE & Mobile)
+│   ├── core-fe-*     (Ví dụ: core-fe-mamushi, core-fe-marinechat)
+│   ├── core-be-*     (Ví dụ: core-be-boomslang, core-be-hemachatus)
+│   └── core-mobile-* (Ví dụ: core-mobile-http-service, core-mobile-style-guide)
 │
-├── 🤖 prod-*      (Hệ sinh thái sản phẩm tự phát triển của công ty)
-│   ├── prod-bot-* (Sản phẩm AI & Chatbot: Beka Bot)
+├── 🤖 prod-*         (Hệ sinh thái sản phẩm tự phát triển của công ty)
+│   ├── prod-bot-*    (Sản phẩm AI & Chatbot: Beka Bot)
 │   ├── prod-vision-* (Sản phẩm AI Camera: Beka Vision)
-│   └── prod-lgsp-* (Sản phẩm tích hợp: Beka LGSP)
+│   └── prod-lgsp-*   (Sản phẩm tích hợp: Beka LGSP)
 │
-├── 🏢 out-*       (Dự án gia công phần mềm cho khách hàng - Outsource)
-│   ├── out-vsp-*  (Dự án cho đối tác Vishipel)
-│   ├── out-vnp-*  (Dự án cho đối tác VNPost)
-│   └── out-gov-*  (Dự án cho khối chính phủ & tỉnh thành)
+├── 🏢 out-*          (Dự án gia công phần mềm cho khách hàng - Outsource)
+│   ├── out-vsp-*     (Dự án cho đối tác Vishipel)
+│   ├── out-vnp-*     (Dự án cho đối tác VNPost)
+│   └── out-gov-*     (Dự án cho khối chính phủ & tỉnh thành)
 │
-└── 🧪 rnd-*       (Các dự án nghiên cứu, thử nghiệm công nghệ & POC)
+└── 🧪 rnd-*          (Các dự án nghiên cứu, thử nghiệm công nghệ & POC)
 ```
 
 > [!TIP]
