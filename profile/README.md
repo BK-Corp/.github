@@ -284,13 +284,8 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (124 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (119 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/03.mrp-s-mrp-backend-21">🔗 03.mrp-s-mrp-backend-21</a></li>
-    <li><a href="https://github.com/BK-Corp/03.mrp-s-mrp-backend-31">🔗 03.mrp-s-mrp-backend-31</a></li>
-    <li><a href="https://github.com/BK-Corp/03.mrp-s-mrp-frontend">🔗 03.mrp-s-mrp-frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/03.mrp-s-mrp-frontend-admin">🔗 03.mrp-s-mrp-frontend-admin</a></li>
-    <li><a href="https://github.com/BK-Corp/03.mrp-s-mrp-report-ssrs">🔗 03.mrp-s-mrp-report-ssrs</a></li>
     <li><a href="https://github.com/BK-Corp/04.hr-enkei.intranet">🔗 04.hr-enkei.intranet</a></li>
     <li><a href="https://github.com/BK-Corp/04.hr-petro.ihr.web">🔗 04.hr-petro.ihr.web</a></li>
     <li><a href="https://github.com/BK-Corp/04.hr-smart-hr-be-apis">🔗 04.hr-smart-hr-be-apis</a></li>
@@ -436,11 +431,16 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (3 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (8 repos)</summary>
   <ul>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-api-standard">🔗 99-project-goinvoice-api-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-fe-standard">🔗 99-project-goinvoice-fe-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-portal-standard">🔗 99-project-goinvoice-portal-standard</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-backend-21">🔗 99-project-s-mrp-backend-21</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-backend-31">🔗 99-project-s-mrp-backend-31</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-frontend">🔗 99-project-s-mrp-frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-frontend-admin">🔗 99-project-s-mrp-frontend-admin</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-report-ssrs">🔗 99-project-s-mrp-report-ssrs</a></li>
   </ul>
 </details>
 
