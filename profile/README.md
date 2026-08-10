@@ -15,7 +15,7 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   <summary>📁 <b>Core Frameworks</b></summary>
   <div style="padding-left: 20px;">
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-fe-">Core Frontend (core-fe-*)</a></b> (72 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-fe-">Core Frontend (core-fe-*)</a></b> (12 repos)</summary>
   <ul>
     <li><a href="https://github.com/BK-Corp/core-fe-boidae">🔗 core-fe-boidae</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-boidae_backup">🔗 core-fe-boidae_backup</a></li>
@@ -24,66 +24,6 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/core-fe-dasypeltis">🔗 core-fe-dasypeltis</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-jararacussu">🔗 core-fe-jararacussu</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-mamushi">🔗 core-fe-mamushi</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-5.miniapp-tuyen-quang-id">🔗 core-fe-mobile-flutter-5.miniapp-tuyen-quang-id</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-game-2048-module">🔗 core-fe-mobile-flutter-game-2048-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-administrative_module">🔗 core-fe-mobile-flutter-module-administrative_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-advance-payment">🔗 core-fe-mobile-flutter-module-advance-payment</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-chatbot_module">🔗 core-fe-mobile-flutter-module-chatbot_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-citizen_module">🔗 core-fe-mobile-flutter-module-citizen_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-editor-mobile">🔗 core-fe-mobile-flutter-module-editor-mobile</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-education-module">🔗 core-fe-mobile-flutter-module-education-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-ekyc-module">🔗 core-fe-mobile-flutter-module-ekyc-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-feedback_module">🔗 core-fe-mobile-flutter-module-feedback_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-field_module">🔗 core-fe-mobile-flutter-module-field_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-leave-request">🔗 core-fe-mobile-flutter-module-leave-request</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-map_module">🔗 core-fe-mobile-flutter-module-map_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-master_app_module">🔗 core-fe-mobile-flutter-module-master_app_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-medical_module">🔗 core-fe-mobile-flutter-module-medical_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-meet-module">🔗 core-fe-mobile-flutter-module-meet-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-orc-module">🔗 core-fe-mobile-flutter-module-orc-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-qa-module">🔗 core-fe-mobile-flutter-module-qa-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-task_module">🔗 core-fe-mobile-flutter-module-task_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-totp_module">🔗 core-fe-mobile-flutter-module-totp_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-tourism-module">🔗 core-fe-mobile-flutter-module-tourism-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-trace-module">🔗 core-fe-mobile-flutter-module-trace-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-traffic_module">🔗 core-fe-mobile-flutter-module-traffic_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-work-report">🔗 core-fe-mobile-flutter-module-work-report</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-module-yolo-module">🔗 core-fe-mobile-flutter-module-yolo-module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-beka-app">🔗 core-fe-mobile-flutter-project-beka-app</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-beka-app-v2">🔗 core-fe-mobile-flutter-project-beka-app-v2</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-beka-lan">🔗 core-fe-mobile-flutter-project-beka-lan</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-chatbot-ccvc">🔗 core-fe-mobile-flutter-project-chatbot-ccvc</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-checkin-app-flutter-os">🔗 core-fe-mobile-flutter-project-checkin-app-flutter-os</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-core-app">🔗 core-fe-mobile-flutter-project-core-app</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-csdl-tntg-langson">🔗 core-fe-mobile-flutter-project-csdl-tntg-langson</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-ecopark-master-app">🔗 core-fe-mobile-flutter-project-ecopark-master-app</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-enkei-hr">🔗 core-fe-mobile-flutter-project-enkei-hr</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-hr-app">🔗 core-fe-mobile-flutter-project-hr-app</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-i-office">🔗 core-fe-mobile-flutter-project-i-office</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-inventory">🔗 core-fe-mobile-flutter-project-inventory</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-it-help-desk">🔗 core-fe-mobile-flutter-project-it-help-desk</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-lang-son-identification">🔗 core-fe-mobile-flutter-project-lang-son-identification</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-lgsp-totp">🔗 core-fe-mobile-flutter-project-lgsp-totp</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-marinechat">🔗 core-fe-mobile-flutter-project-marinechat</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-marineradar">🔗 core-fe-mobile-flutter-project-marineradar</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-master-app-mobile">🔗 core-fe-mobile-flutter-project-master-app-mobile</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-minerals-and-geology">🔗 core-fe-mobile-flutter-project-minerals-and-geology</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-newspaper-ninhbinh">🔗 core-fe-mobile-flutter-project-newspaper-ninhbinh</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-nong-nghiep-thong-minh-tmdt-lang-son">🔗 core-fe-mobile-flutter-project-nong-nghiep-thong-minh-tmdt-lang-son</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-ocop-ls">🔗 core-fe-mobile-flutter-project-ocop-ls</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-s-work-schedule">🔗 core-fe-mobile-flutter-project-s-work-schedule</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-smart-file">🔗 core-fe-mobile-flutter-project-smart-file</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-smartwork">🔗 core-fe-mobile-flutter-project-smartwork</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-tro-ly-ao-bk">🔗 core-fe-mobile-flutter-project-tro-ly-ao-bk</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-tuyen-quang">🔗 core-fe-mobile-flutter-project-tuyen-quang</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-txng-app-doanh-nghiep">🔗 core-fe-mobile-flutter-project-txng-app-doanh-nghiep</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-txng-app-nguoi-dan">🔗 core-fe-mobile-flutter-project-txng-app-nguoi-dan</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-vishipel-chatbot">🔗 core-fe-mobile-flutter-project-vishipel-chatbot</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-vishipel-master-app">🔗 core-fe-mobile-flutter-project-vishipel-master-app</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-project-vishipel.vpdt.mobile">🔗 core-fe-mobile-flutter-project-vishipel.vpdt.mobile</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-reactnative-asset_inventory">🔗 core-fe-mobile-flutter-reactnative-asset_inventory</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-reactnative-core-react-native">🔗 core-fe-mobile-flutter-reactnative-core-react-native</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-mobile-flutter-reactnative-s_ui_lib">🔗 core-fe-mobile-flutter-reactnative-s_ui_lib</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-najanaja">🔗 core-fe-najanaja</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-nerodia">🔗 core-fe-nerodia</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-viper">🔗 core-fe-viper</a></li>
@@ -142,20 +82,80 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-mobile-">Core Mobile (core-mobile-*)</a></b> (12 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-mobile-">Core Mobile (core-mobile-*)</a></b> (72 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/core-mobile-api_packages">🔗 core-mobile-api_packages</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-certificates">🔗 core-mobile-certificates</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-core_module">🔗 core-mobile-core_module</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-lgsp-totp">🔗 core-mobile-lgsp-totp</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-mobile-style-guide">🔗 core-mobile-mobile-style-guide</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-native_package_template">🔗 core-mobile-native_package_template</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-serp_debug_overlay">🔗 core-mobile-serp_debug_overlay</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-serp_font_awesome">🔗 core-mobile-serp_font_awesome</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-serp_http_service">🔗 core-mobile-serp_http_service</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-serp_service_utils">🔗 core-mobile-serp_service_utils</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-template-app">🔗 core-mobile-template-app</a></li>
-    <li><a href="https://github.com/BK-Corp/core-mobile-ui_packages">🔗 core-mobile-ui_packages</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-api_packages">🔗 core-mobile-0.core-api_packages</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-certificates">🔗 core-mobile-0.core-certificates</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-core_module">🔗 core-mobile-0.core-core_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-lgsp-totp">🔗 core-mobile-0.core-lgsp-totp</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-mobile-style-guide">🔗 core-mobile-0.core-mobile-style-guide</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-native_package_template">🔗 core-mobile-0.core-native_package_template</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-serp_debug_overlay">🔗 core-mobile-0.core-serp_debug_overlay</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-serp_font_awesome">🔗 core-mobile-0.core-serp_font_awesome</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-serp_http_service">🔗 core-mobile-0.core-serp_http_service</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-serp_service_utils">🔗 core-mobile-0.core-serp_service_utils</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-template-app">🔗 core-mobile-0.core-template-app</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-0.core-ui_packages">🔗 core-mobile-0.core-ui_packages</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-5.miniapp-tuyen-quang-id">🔗 core-mobile-5.miniapp-tuyen-quang-id</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-game-2048-module">🔗 core-mobile-game-2048-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-administrative_module">🔗 core-mobile-module-administrative_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-advance-payment">🔗 core-mobile-module-advance-payment</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-chatbot_module">🔗 core-mobile-module-chatbot_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-citizen_module">🔗 core-mobile-module-citizen_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-editor-mobile">🔗 core-mobile-module-editor-mobile</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-education-module">🔗 core-mobile-module-education-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-ekyc-module">🔗 core-mobile-module-ekyc-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-feedback_module">🔗 core-mobile-module-feedback_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-field_module">🔗 core-mobile-module-field_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-leave-request">🔗 core-mobile-module-leave-request</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-map_module">🔗 core-mobile-module-map_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-master_app_module">🔗 core-mobile-module-master_app_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-medical_module">🔗 core-mobile-module-medical_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-meet-module">🔗 core-mobile-module-meet-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-orc-module">🔗 core-mobile-module-orc-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-qa-module">🔗 core-mobile-module-qa-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-task_module">🔗 core-mobile-module-task_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-totp_module">🔗 core-mobile-module-totp_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-tourism-module">🔗 core-mobile-module-tourism-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-trace-module">🔗 core-mobile-module-trace-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-traffic_module">🔗 core-mobile-module-traffic_module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-work-report">🔗 core-mobile-module-work-report</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-module-yolo-module">🔗 core-mobile-module-yolo-module</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-beka-app">🔗 core-mobile-project-beka-app</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-beka-app-v2">🔗 core-mobile-project-beka-app-v2</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-beka-lan">🔗 core-mobile-project-beka-lan</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-chatbot-ccvc">🔗 core-mobile-project-chatbot-ccvc</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-checkin-app-flutter-os">🔗 core-mobile-project-checkin-app-flutter-os</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-core-app">🔗 core-mobile-project-core-app</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-csdl-tntg-langson">🔗 core-mobile-project-csdl-tntg-langson</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-ecopark-master-app">🔗 core-mobile-project-ecopark-master-app</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-enkei-hr">🔗 core-mobile-project-enkei-hr</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-hr-app">🔗 core-mobile-project-hr-app</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-i-office">🔗 core-mobile-project-i-office</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-inventory">🔗 core-mobile-project-inventory</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-it-help-desk">🔗 core-mobile-project-it-help-desk</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-lang-son-identification">🔗 core-mobile-project-lang-son-identification</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-lgsp-totp">🔗 core-mobile-project-lgsp-totp</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-marinechat">🔗 core-mobile-project-marinechat</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-marineradar">🔗 core-mobile-project-marineradar</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-master-app-mobile">🔗 core-mobile-project-master-app-mobile</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-minerals-and-geology">🔗 core-mobile-project-minerals-and-geology</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-newspaper-ninhbinh">🔗 core-mobile-project-newspaper-ninhbinh</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-nong-nghiep-thong-minh-tmdt-lang-son">🔗 core-mobile-project-nong-nghiep-thong-minh-tmdt-lang-son</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-ocop-ls">🔗 core-mobile-project-ocop-ls</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-s-work-schedule">🔗 core-mobile-project-s-work-schedule</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-smart-file">🔗 core-mobile-project-smart-file</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-smartwork">🔗 core-mobile-project-smartwork</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-tro-ly-ao-bk">🔗 core-mobile-project-tro-ly-ao-bk</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-tuyen-quang">🔗 core-mobile-project-tuyen-quang</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-txng-app-doanh-nghiep">🔗 core-mobile-project-txng-app-doanh-nghiep</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-txng-app-nguoi-dan">🔗 core-mobile-project-txng-app-nguoi-dan</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-vishipel-chatbot">🔗 core-mobile-project-vishipel-chatbot</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-vishipel-master-app">🔗 core-mobile-project-vishipel-master-app</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-project-vishipel.vpdt.mobile">🔗 core-mobile-project-vishipel.vpdt.mobile</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-reactnative-asset_inventory">🔗 core-mobile-reactnative-asset_inventory</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-reactnative-core-react-native">🔗 core-mobile-reactnative-core-react-native</a></li>
+    <li><a href="https://github.com/BK-Corp/core-mobile-reactnative-s_ui_lib">🔗 core-mobile-reactnative-s_ui_lib</a></li>
   </ul>
 </details>
   </div>
