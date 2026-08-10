@@ -284,11 +284,8 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (127 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (124 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/01.invoice-goinvoice-api-standard">🔗 01.invoice-goinvoice-api-standard</a></li>
-    <li><a href="https://github.com/BK-Corp/01.invoice-goinvoice-fe-standard">🔗 01.invoice-goinvoice-fe-standard</a></li>
-    <li><a href="https://github.com/BK-Corp/01.invoice-goinvoice-portal-standard">🔗 01.invoice-goinvoice-portal-standard</a></li>
     <li><a href="https://github.com/BK-Corp/03.mrp-s-mrp-backend-21">🔗 03.mrp-s-mrp-backend-21</a></li>
     <li><a href="https://github.com/BK-Corp/03.mrp-s-mrp-backend-31">🔗 03.mrp-s-mrp-backend-31</a></li>
     <li><a href="https://github.com/BK-Corp/03.mrp-s-mrp-frontend">🔗 03.mrp-s-mrp-frontend</a></li>
@@ -436,6 +433,14 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/archive-filenet-api">🔗 archive-filenet-api</a></li>
     <li><a href="https://github.com/BK-Corp/archive-filenet-fe">🔗 archive-filenet-fe</a></li>
     <li><a href="https://github.com/BK-Corp/archive-filenet.backend3.1">🔗 archive-filenet.backend3.1</a></li>
+  </ul>
+</details>
+<details>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (3 repos)</summary>
+  <ul>
+    <li><a href="https://github.com/BK-Corp/99-project-goinvoice-api-standard">🔗 99-project-goinvoice-api-standard</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-goinvoice-fe-standard">🔗 99-project-goinvoice-fe-standard</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-goinvoice-portal-standard">🔗 99-project-goinvoice-portal-standard</a></li>
   </ul>
 </details>
 
