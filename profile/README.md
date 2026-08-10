@@ -284,14 +284,8 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (119 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (113 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/04.hr-enkei.intranet">🔗 04.hr-enkei.intranet</a></li>
-    <li><a href="https://github.com/BK-Corp/04.hr-petro.ihr.web">🔗 04.hr-petro.ihr.web</a></li>
-    <li><a href="https://github.com/BK-Corp/04.hr-smart-hr-be-apis">🔗 04.hr-smart-hr-be-apis</a></li>
-    <li><a href="https://github.com/BK-Corp/04.hr-smart-hr-pa">🔗 04.hr-smart-hr-pa</a></li>
-    <li><a href="https://github.com/BK-Corp/04.hr-smart-hr-tool-report">🔗 04.hr-smart-hr-tool-report</a></li>
-    <li><a href="https://github.com/BK-Corp/04.hr-smart-hr-winform">🔗 04.hr-smart-hr-winform</a></li>
     <li><a href="https://github.com/BK-Corp/05.mis-bi-bi-backend">🔗 05.mis-bi-bi-backend</a></li>
     <li><a href="https://github.com/BK-Corp/05.mis-bi-bi-frontend">🔗 05.mis-bi-bi-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/06.bpm-wf-01.ibpm-ibpm.api">🔗 06.bpm-wf-01.ibpm-ibpm.api</a></li>
@@ -431,11 +425,17 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (8 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (14 repos)</summary>
   <ul>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-api-standard">🔗 99-project-goinvoice-api-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-fe-standard">🔗 99-project-goinvoice-fe-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-portal-standard">🔗 99-project-goinvoice-portal-standard</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-hr-be-apis">🔗 99-project-hr-be-apis</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-hr-enkei.intranet">🔗 99-project-hr-enkei.intranet</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-hr-pa">🔗 99-project-hr-pa</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-hr-petro.ihr.web">🔗 99-project-hr-petro.ihr.web</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-hr-tool-report">🔗 99-project-hr-tool-report</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-hr-winform">🔗 99-project-hr-winform</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-backend-21">🔗 99-project-mrp-backend-21</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-backend-31">🔗 99-project-mrp-backend-31</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-frontend">🔗 99-project-mrp-frontend</a></li>
