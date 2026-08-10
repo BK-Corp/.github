@@ -9,6 +9,34 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
 
 ---
 
+## 📁 Cấu trúc cây dự án (Project Tree)
+
+Để thuận tiện cho việc tìm kiếm và quản lý hơn 330 dự án, mã nguồn tại BK-Corp được tổ chức logic theo sơ đồ và quy tắc đặt tên sau:
+
+```
+BK-Corp (Organization)
+├── ⚙️ core-*      (Mã nguồn khung Core Framework FE & BE)
+│   ├── core-fe-*  (Ví dụ: core-fe-mamushi, core-fe-marinechat)
+│   └── core-be-*  (Ví dụ: core-be-boomslang, core-be-hemachatus)
+│
+├── 🤖 prod-*      (Hệ sinh thái sản phẩm tự phát triển của công ty)
+│   ├── prod-bot-* (Sản phẩm AI & Chatbot: Beka Bot)
+│   ├── prod-vision-* (Sản phẩm AI Camera: Beka Vision)
+│   └── prod-lgsp-* (Sản phẩm tích hợp: Beka LGSP)
+│
+├── 🏢 out-*       (Dự án gia công phần mềm cho khách hàng - Outsource)
+│   ├── out-vsp-*  (Dự án cho đối tác Vishipel)
+│   ├── out-vnp-*  (Dự án cho đối tác VNPost)
+│   └── out-gov-*  (Dự án cho khối chính phủ & tỉnh thành)
+│
+└── 🧪 rnd-*       (Các dự án nghiên cứu, thử nghiệm công nghệ & POC)
+```
+
+> [!TIP]
+> Bạn có thể click vào các **Topics (Nhãn thẻ)** ở mỗi repository để lọc nhanh danh sách dự án theo từng nhóm (Ví dụ: click vào tag `outsource` hoặc `beka-bot`).
+
+---
+
 ## 🛠️ Công nghệ cốt lõi (Tech Stack)
 
 <p align="left">
@@ -40,11 +68,11 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
 ---
 
 ## 🤝 Liên hệ & Hợp tác
-* 🌐 **Website:** [bk-corp.vn](https://bk-corp.vn) (Thay bằng link website thực tế của bạn)
+* 🌐 **Website:** [bk-corp.vn](https://bk-corp.vn)
 * 📧 **Email:** [contact@bk-corp.vn](mailto:contact@bk-corp.vn)
 * 🏢 **Văn phòng:** Hà Nội, Việt Nam
 
 ---
 <p align="center">
-  <i>Được tạo tự động và trang trí bởi Antigravity AI 🚀</i>
+  <i>Được cập nhật tự động bởi Antigravity AI 🚀</i>
 </p>
