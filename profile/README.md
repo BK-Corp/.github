@@ -284,10 +284,8 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (113 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (111 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/05.mis-bi-bi-backend">🔗 05.mis-bi-bi-backend</a></li>
-    <li><a href="https://github.com/BK-Corp/05.mis-bi-bi-frontend">🔗 05.mis-bi-bi-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/06.bpm-wf-01.ibpm-ibpm.api">🔗 06.bpm-wf-01.ibpm-ibpm.api</a></li>
     <li><a href="https://github.com/BK-Corp/06.bpm-wf-01.ibpm-ibpm.fe">🔗 06.bpm-wf-01.ibpm-ibpm.fe</a></li>
     <li><a href="https://github.com/BK-Corp/07.signing-server-sign-server-aio">🔗 07.signing-server-sign-server-aio</a></li>
@@ -425,7 +423,7 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (14 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (16 repos)</summary>
   <ul>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-api-standard">🔗 99-project-goinvoice-api-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-fe-standard">🔗 99-project-goinvoice-fe-standard</a></li>
@@ -436,6 +434,8 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/99-project-hr-petro.ihr.web">🔗 99-project-hr-petro.ihr.web</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-hr-tool-report">🔗 99-project-hr-tool-report</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-hr-winform">🔗 99-project-hr-winform</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-misbi-backend">🔗 99-project-misbi-backend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-misbi-frontend">🔗 99-project-misbi-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-backend-21">🔗 99-project-mrp-backend-21</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-backend-31">🔗 99-project-mrp-backend-31</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-frontend">🔗 99-project-mrp-frontend</a></li>
