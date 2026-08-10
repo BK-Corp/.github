@@ -17,11 +17,11 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
 <details>
   <summary>📂 <b><a href="https://github.com/BK-Corp?q=core-fe-">Core Frontend (core-fe-*)</a></b> (12 repos)</summary>
   <ul>
+    <li><a href="https://github.com/BK-Corp/0-core-fe-dasypeltis">🔗 0-core-fe-dasypeltis</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-boidae">🔗 core-fe-boidae</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-boidae_backup">🔗 core-fe-boidae_backup</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-cobra">🔗 core-fe-cobra</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-coreframework.admin.vuefe">🔗 core-fe-coreframework.admin.vuefe</a></li>
-    <li><a href="https://github.com/BK-Corp/core-fe-dasypeltis">🔗 core-fe-dasypeltis</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-jararacussu">🔗 core-fe-jararacussu</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-mamushi">🔗 core-fe-mamushi</a></li>
     <li><a href="https://github.com/BK-Corp/core-fe-najanaja">🔗 core-fe-najanaja</a></li>
