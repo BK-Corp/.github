@@ -284,50 +284,9 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (109 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=out-">Dự án Outsource khác (out-*)</a></b> (63 repos)</summary>
   <ul>
-    <li><a href="https://github.com/BK-Corp/07.signing-server-sign-server-aio">🔗 07.signing-server-sign-server-aio</a></li>
-    <li><a href="https://github.com/BK-Corp/07.signing-server-sign-service">🔗 07.signing-server-sign-service</a></li>
-    <li><a href="https://github.com/BK-Corp/07.signing-server-signing-server-core.backend">🔗 07.signing-server-signing-server-core.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/07.signing-server-signing-server-core.frontend">🔗 07.signing-server-signing-server-core.frontend</a></li>
     <li><a href="https://github.com/BK-Corp/08.eticket-tms-beta-tms">🔗 08.eticket-tms-beta-tms</a></li>
-    <li><a href="https://github.com/BK-Corp/09.filenet-baseservice.frontend">🔗 09.filenet-baseservice.frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/09.filenet-customer.backend">🔗 09.filenet-customer.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/09.filenet-filenet.backend">🔗 09.filenet-filenet.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/09.filenet-filenet.frontend">🔗 09.filenet-filenet.frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/09.filenet-filenet.reader.backend">🔗 09.filenet-filenet.reader.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/09.filenet-opportunities.backend">🔗 09.filenet-opportunities.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/09.filenet-opportunities.frontend">🔗 09.filenet-opportunities.frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/09.filenet-s-erp.filetnet.searchservice.indexer">🔗 09.filenet-s-erp.filetnet.searchservice.indexer</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-108.khaibaoyte">🔗 10.cms-portal-108.khaibaoyte</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-avicad-iav-nt">🔗 10.cms-portal-avicad-iav-nt</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-bds-bds-api">🔗 10.cms-portal-bds-bds-api</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-bds-bds-api-5.0">🔗 10.cms-portal-bds-bds-api-5.0</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-bds-bds-fe-8">🔗 10.cms-portal-bds-bds-fe-8</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-bds-bds-web">🔗 10.cms-portal-bds-bds-web</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-cms.108">🔗 10.cms-portal-cms.108</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-cms.v30">🔗 10.cms-portal-cms.v30</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-ecm-public">🔗 10.cms-portal-ecm-public</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-s-cinema-cms-cinema">🔗 10.cms-portal-s-cinema-cms-cinema</a></li>
-    <li><a href="https://github.com/BK-Corp/10.cms-portal-s-cinema-mobile-cinema">🔗 10.cms-portal-s-cinema-mobile-cinema</a></li>
-    <li><a href="https://github.com/BK-Corp/11.-eoffice-ais-intranet">🔗 11.-eoffice-ais-intranet</a></li>
-    <li><a href="https://github.com/BK-Corp/11.-eoffice-e-office-wf">🔗 11.-eoffice-e-office-wf</a></li>
-    <li><a href="https://github.com/BK-Corp/11.-eoffice-s-edoc">🔗 11.-eoffice-s-edoc</a></li>
-    <li><a href="https://github.com/BK-Corp/11.-eoffice-vtv-task">🔗 11.-eoffice-vtv-task</a></li>
-    <li><a href="https://github.com/BK-Corp/12.bi-serp.bi.fe">🔗 12.bi-serp.bi.fe</a></li>
-    <li><a href="https://github.com/BK-Corp/12.bi-serp.bi.service">🔗 12.bi-serp.bi.service</a></li>
-    <li><a href="https://github.com/BK-Corp/21.accountingintegration-accounting-gw">🔗 21.accountingintegration-accounting-gw</a></li>
-    <li><a href="https://github.com/BK-Corp/23.s-shipping-checkin-app">🔗 23.s-shipping-checkin-app</a></li>
-    <li><a href="https://github.com/BK-Corp/23.s-shipping-checkin-app-ios-native">🔗 23.s-shipping-checkin-app-ios-native</a></li>
-    <li><a href="https://github.com/BK-Corp/23.s-shipping-checkin-app-vue">🔗 23.s-shipping-checkin-app-vue</a></li>
-    <li><a href="https://github.com/BK-Corp/23.s-shipping-s-catalog">🔗 23.s-shipping-s-catalog</a></li>
-    <li><a href="https://github.com/BK-Corp/23.s-shipping-s-catalog-frontend">🔗 23.s-shipping-s-catalog-frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/23.s-shipping-shipping-backendapi">🔗 23.s-shipping-shipping-backendapi</a></li>
-    <li><a href="https://github.com/BK-Corp/23.s-shipping-shipping-frontend">🔗 23.s-shipping-shipping-frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/29.iot-2023-bigdata-vishipel-poc">🔗 29.iot-2023-bigdata-vishipel-poc</a></li>
-    <li><a href="https://github.com/BK-Corp/29.iot-iot-backend">🔗 29.iot-iot-backend</a></li>
-    <li><a href="https://github.com/BK-Corp/29.iot-iot-backendapis">🔗 29.iot-iot-backendapis</a></li>
-    <li><a href="https://github.com/BK-Corp/29.iot-iot-frontend">🔗 29.iot-iot-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-agentapi">🔗 7a-csdl-datdai-quocgia-agentapi</a></li>
     <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-api-gateway">🔗 7a-csdl-datdai-quocgia-api-gateway</a></li>
     <li><a href="https://github.com/BK-Corp/7a-csdl-datdai-quocgia-api-gateway-admin">🔗 7a-csdl-datdai-quocgia-api-gateway-admin</a></li>
@@ -346,11 +305,6 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-chatbot-ai-nlu">🔗 8-3d-chatbot-ai-chatbot-ai-nlu</a></li>
     <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-chatbot-ai-studio">🔗 8-3d-chatbot-ai-chatbot-ai-studio</a></li>
     <li><a href="https://github.com/BK-Corp/8-3d-chatbot-ai-maps-platform">🔗 8-3d-chatbot-ai-maps-platform</a></li>
-    <li><a href="https://github.com/BK-Corp/98.samplecode-sample-app-flutter">🔗 98.samplecode-sample-app-flutter</a></li>
-    <li><a href="https://github.com/BK-Corp/98.samplecode-serp.samplecode.backend">🔗 98.samplecode-serp.samplecode.backend</a></li>
-    <li><a href="https://github.com/BK-Corp/98.samplecode-serp.samplecode.flutterapp">🔗 98.samplecode-serp.samplecode.flutterapp</a></li>
-    <li><a href="https://github.com/BK-Corp/98.samplecode-serp.samplecode.frontend">🔗 98.samplecode-serp.samplecode.frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/98.samplecode-serp.samplecode.frontend.v11">🔗 98.samplecode-serp.samplecode.frontend.v11</a></li>
     <li><a href="https://github.com/BK-Corp/99.s-erp-website-wp-site">🔗 99.s-erp-website-wp-site</a></li>
     <li><a href="https://github.com/BK-Corp/bigdata-vishipel-poc">🔗 bigdata-vishipel-poc</a></li>
     <li><a href="https://github.com/BK-Corp/mobile-app-smart.ticket.app">🔗 mobile-app-smart.ticket.app</a></li>
@@ -401,7 +355,7 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
 </details>
 
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=rnd-">Nghiên cứu & Thử nghiệm (rnd-*)</a></b> (6 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=rnd-">Nghiên cứu & Thử nghiệm (rnd-*)</a></b> (11 repos)</summary>
   <ul>
     <li><a href="https://github.com/BK-Corp/rnd-elasticindexingandquery">🔗 rnd-elasticindexingandquery</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-filenet.108migration">🔗 rnd-filenet.108migration</a></li>
@@ -409,6 +363,11 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/rnd-monitorning-system">🔗 rnd-monitorning-system</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-netmicroservicearchitecture">🔗 rnd-netmicroservicearchitecture</a></li>
     <li><a href="https://github.com/BK-Corp/rnd-poc-db-encryption">🔗 rnd-poc-db-encryption</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-sample-app-flutter">🔗 rnd-sample-app-flutter</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-serp.samplecode.backend">🔗 rnd-serp.samplecode.backend</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-serp.samplecode.flutterapp">🔗 rnd-serp.samplecode.flutterapp</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-serp.samplecode.frontend">🔗 rnd-serp.samplecode.frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/rnd-serp.samplecode.frontend.v11">🔗 rnd-serp.samplecode.frontend.v11</a></li>
   </ul>
 </details>
 <details>
@@ -421,8 +380,34 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
   </ul>
 </details>
 <details>
-  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (18 repos)</summary>
+  <summary>📂 <b><a href="https://github.com/BK-Corp?q=99-project-">Dự án phụ / Lưu trữ (99-project-*)</a></b> (59 repos)</summary>
   <ul>
+    <li><a href="https://github.com/BK-Corp/99-project-accounting-accounting-gw">🔗 99-project-accounting-accounting-gw</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-bi-serp.bi.fe">🔗 99-project-bi-serp.bi.fe</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-bi-serp.bi.service">🔗 99-project-bi-serp.bi.service</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-108.khaibaoyte">🔗 99-project-cms-108.khaibaoyte</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-avicad-iav-nt">🔗 99-project-cms-avicad-iav-nt</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-bds-api">🔗 99-project-cms-bds-bds-api</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-bds-api-5.0">🔗 99-project-cms-bds-bds-api-5.0</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-bds-fe-8">🔗 99-project-cms-bds-bds-fe-8</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-bds-bds-web">🔗 99-project-cms-bds-bds-web</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-cms.108">🔗 99-project-cms-cms.108</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-cms.v30">🔗 99-project-cms-cms.v30</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-ecm-public">🔗 99-project-cms-ecm-public</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-s-cinema-cms-cinema">🔗 99-project-cms-s-cinema-cms-cinema</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-cms-s-cinema-mobile-cinema">🔗 99-project-cms-s-cinema-mobile-cinema</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-eoffice-ais-intranet">🔗 99-project-eoffice-ais-intranet</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-eoffice-e-office-wf">🔗 99-project-eoffice-e-office-wf</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-eoffice-s-edoc">🔗 99-project-eoffice-s-edoc</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-eoffice-vtv-task">🔗 99-project-eoffice-vtv-task</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-baseservice.frontend">🔗 99-project-filenet-baseservice.frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-customer.backend">🔗 99-project-filenet-customer.backend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-filenet.backend">🔗 99-project-filenet-filenet.backend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-filenet.frontend">🔗 99-project-filenet-filenet.frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-filenet.reader.backend">🔗 99-project-filenet-filenet.reader.backend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-opportunities.backend">🔗 99-project-filenet-opportunities.backend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-opportunities.frontend">🔗 99-project-filenet-opportunities.frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-filenet-s-erp.filetnet.searchservice.indexer">🔗 99-project-filenet-s-erp.filetnet.searchservice.indexer</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-api-standard">🔗 99-project-goinvoice-api-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-fe-standard">🔗 99-project-goinvoice-fe-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-portal-standard">🔗 99-project-goinvoice-portal-standard</a></li>
@@ -434,6 +419,10 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/99-project-hr-winform">🔗 99-project-hr-winform</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-ibpm.api">🔗 99-project-ibpm.api</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-ibpm.fe">🔗 99-project-ibpm.fe</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-iot-2023-bigdata-vishipel-poc">🔗 99-project-iot-2023-bigdata-vishipel-poc</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-iot-iot-backend">🔗 99-project-iot-iot-backend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-iot-iot-backendapis">🔗 99-project-iot-iot-backendapis</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-iot-iot-frontend">🔗 99-project-iot-iot-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-misbi-backend">🔗 99-project-misbi-backend</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-misbi-frontend">🔗 99-project-misbi-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-backend-21">🔗 99-project-mrp-backend-21</a></li>
@@ -441,6 +430,17 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/99-project-mrp-frontend">🔗 99-project-mrp-frontend</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-frontend-admin">🔗 99-project-mrp-frontend-admin</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-mrp-report-ssrs">🔗 99-project-mrp-report-ssrs</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-checkin-app">🔗 99-project-shipping-checkin-app</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-checkin-app-ios-native">🔗 99-project-shipping-checkin-app-ios-native</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-checkin-app-vue">🔗 99-project-shipping-checkin-app-vue</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-s-catalog">🔗 99-project-shipping-s-catalog</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-s-catalog-frontend">🔗 99-project-shipping-s-catalog-frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-shipping-backendapi">🔗 99-project-shipping-shipping-backendapi</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-shipping-shipping-frontend">🔗 99-project-shipping-shipping-frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-signing-sign-server-aio">🔗 99-project-signing-sign-server-aio</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-signing-sign-service">🔗 99-project-signing-sign-service</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-signing-signing-server-core.backend">🔗 99-project-signing-signing-server-core.backend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-signing-signing-server-core.frontend">🔗 99-project-signing-signing-server-core.frontend</a></li>
   </ul>
 </details>
 
