@@ -436,11 +436,11 @@ Chúng tôi là **BK-Corp**, tập trung nghiên cứu và phát triển các s�
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-api-standard">🔗 99-project-goinvoice-api-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-fe-standard">🔗 99-project-goinvoice-fe-standard</a></li>
     <li><a href="https://github.com/BK-Corp/99-project-goinvoice-portal-standard">🔗 99-project-goinvoice-portal-standard</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-backend-21">🔗 99-project-s-mrp-backend-21</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-backend-31">🔗 99-project-s-mrp-backend-31</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-frontend">🔗 99-project-s-mrp-frontend</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-frontend-admin">🔗 99-project-s-mrp-frontend-admin</a></li>
-    <li><a href="https://github.com/BK-Corp/99-project-s-mrp-report-ssrs">🔗 99-project-s-mrp-report-ssrs</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-mrp-backend-21">🔗 99-project-mrp-backend-21</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-mrp-backend-31">🔗 99-project-mrp-backend-31</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-mrp-frontend">🔗 99-project-mrp-frontend</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-mrp-frontend-admin">🔗 99-project-mrp-frontend-admin</a></li>
+    <li><a href="https://github.com/BK-Corp/99-project-mrp-report-ssrs">🔗 99-project-mrp-report-ssrs</a></li>
   </ul>
 </details>
 
